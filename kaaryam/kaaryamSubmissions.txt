@@ -1,0 +1,1 @@
+{"fullName":"Mahindra","experience":"I am an electrician","skills":"Electrical work","education":"ITI in electrical","certifications":"NA","projects":"Township electricity projects","achievements":"Township electricity projects","languages":"Marathi, Hindi","tools":"Screwdriver","technologies":"NA"},
